@@ -2,8 +2,6 @@
 
 This is a simple legacy Python script to plot autozygosity. The code may well not work on all VCF formats, but is provided in case it is of use to others.
 
-*Author: Tom Gaunt*
-
 ## Use of the script
 
 This works with Python 2.x (not 3.x or above). The script is executed with ```python autozplotter.py``` on a system that supports Tk GUIs (has been tested on Mac, 
